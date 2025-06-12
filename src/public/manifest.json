@@ -1,0 +1,23 @@
+{
+  "name": "Deep Retina",
+  "short_name": "DeepRetina",
+  "description": "Solusi kesehatan mata terdepan dengan teknologi AI",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#38d1c0",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
